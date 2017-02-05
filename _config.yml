@@ -1,2 +1,3 @@
 name: Quentin DANJOU
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

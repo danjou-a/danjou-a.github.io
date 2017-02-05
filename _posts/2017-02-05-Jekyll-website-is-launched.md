@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quentin Danjou - Jekyll website is launched !"
-date: 2014-04-30
+date: 2017-02-05
 ---
 
 Hey !

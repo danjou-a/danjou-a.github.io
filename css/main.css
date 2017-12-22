@@ -85,6 +85,11 @@ ul.posts li {
     list-style: none;
 }
 
+em {
+    font-style: normal;
+    font-weight: bold;
+}
+
 .img-profil {
     border-radius: 50%;
     border-style: solid;

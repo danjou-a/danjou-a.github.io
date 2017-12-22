@@ -3,11 +3,11 @@ body {
     padding: 0;
     color: #212121;
     background-color: #ECEFF1;
+    font-family:'Helvetica', 'Arial', 'sans-serif';
     /* width: 70%; */
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0;
     list-style: none;
     font-weight: bold;
@@ -62,14 +62,12 @@ a:hover {
 
 h1 {
     font-size: 2.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #ECEFF1;
     margin-bottom: 0.3em;
 }
 
 h2 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
@@ -100,6 +98,7 @@ ul.posts li {
      margin-top: 0;
      font-style: italic;
      color: #CFD8DC;
+     font-family: "Cambria", "Cochin", "Georgia", "Times", "Times New Roman", "serif"
  }
 
 /* footer {

@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    /* margin: 60px auto; */
+    /* width: 70%; */
 }
 
 nav ul, footer ul {
@@ -20,10 +20,11 @@ nav ul{
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
 
-nav ul li, footer ul li {
+/* nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
+} */
+
 a {
     text-decoration: none;
     color: #999;

@@ -2,12 +2,24 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    width: 25%;
+    background-color: #37474F;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;

@@ -1,6 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
+    color: #212121;
     /* width: 70%; */
 }
 
@@ -73,6 +74,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.img-profil {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #CFD8DC;
+    border-width: 5px;
+ }
 
 /* footer {
     border-top: 1px solid #d5d5d5;

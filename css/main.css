@@ -58,6 +58,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #ECEFF1;
 }
 
 p {
@@ -78,8 +79,15 @@ ul.posts li {
 .img-profil {
     border-radius: 50%;
     border-style: solid;
-    border-color: #CFD8DC;
-    border-width: 5px;
+    border-color: #37474F;
+    border-width: 2px;
+    width: 120px;
+    padding-top: 33%;
+ }
+
+ .description {
+     font-style: italic;
+     color: #CFD8DC;
  }
 
 /* footer {

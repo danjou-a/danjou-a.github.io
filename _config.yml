@@ -1,3 +1,6 @@
 name: Quentin DANJOU
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-sitemap
+url: http://quentin-danjou.me

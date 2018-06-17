@@ -89,6 +89,15 @@ p {
     color: #333;
 }
 
+.blogBubble {
+    margin-top: 5em;
+    background-color: crimson;
+    background-color: #FAFAFA;
+    border-radius: 2em;
+    padding: 2em 3em 2em 3em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1.5em;
@@ -121,7 +130,7 @@ em {
 
  .secret {
      /* margin-top: 20em; */
-     color: rgba(255, 255, 255, 0.1);
+     color: rgba(255, 255, 255, 0.05);
      font-size: 1em;
      font-family: "Lucida Console", "Monaco", "monospace";
      position: absolute;

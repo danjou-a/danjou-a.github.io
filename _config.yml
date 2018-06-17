@@ -1,4 +1,4 @@
-name: Quentin DANJOU
+title: Quentin DANJOU
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:

@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     color: #212121;
-    background-color: #ECEFF1;
+    background-color: #90A4AE;
     font-family:'Helvetica', 'Arial', 'sans-serif';
     /* width: 70%; */
 }
@@ -47,8 +47,20 @@ nav ul {
 
 .container {
     margin-left:25%;
-    padding:30px 60px;
+    padding:1px 5em;
     /* height:1000px; */
+}
+
+.bubble {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+    background-color: #FAFAFA;
+    border-top-left-radius: 2em;
+    border-bottom-left-radius: 2em;
+    padding: 2em 3em 2em 3em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 a {
@@ -68,6 +80,7 @@ h1 {
 
 h2 {
     font-size: 3em;
+    margin: 0px;
 }
 
 p {
@@ -107,9 +120,12 @@ em {
  }
 
  .secret {
-     margin-top: 20em;
+     /* margin-top: 20em; */
+     color: rgba(255, 255, 255, 0.1);
      font-size: 1em;
-     font-family: "Lucida Console", "Monaco", "monospace"
+     font-family: "Lucida Console", "Monaco", "monospace";
+     position: absolute;
+     padding-right: 5em;
  }
 
 /* footer {

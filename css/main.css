@@ -195,6 +195,15 @@ em {
         margin-top: 1em;
         margin-bottom: 1em;
     }
+    .secret {
+        visibility: hidden;
+    }
+    p {
+        font-size: 1.2em;
+    }
+    h2 {
+        font-size: 1.9em;
+    }
  }
 
  @media screen and (max-height: 700px) and (min-width: 500px) {
@@ -205,6 +214,9 @@ em {
      nav li {
          display: inline;
          margin-inline-end: 2em;
+     }
+     .secret {
+         visibility: hidden;
      }
  }
 

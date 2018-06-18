@@ -1,26 +1,26 @@
 body {
+    background-color: #90A4AE;
+    font-family:'Helvetica', 'Arial', 'sans-serif';
     margin: 0;
     padding: 0;
     color: #212121;
-    background-color: #90A4AE;
-    font-family:'Helvetica', 'Arial', 'sans-serif';
     /* width: 70%; */
+}
+
+nav {
+    background-color: #263238;
+    margin: 0;
+    width: 25%;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+    text-align: center;
 }
 
 nav ul, footer ul {
     padding: 0;
     list-style: none;
     font-weight: bold;
-}
-
-nav {
-    margin: 0;
-    width: 25%;
-    background-color: #263238;
-    height: 100%; /* Full height */
-    position: fixed; /* Make it stick, even on scroll */
-    overflow: auto; /* Enable scrolling if the sidenav has too much content */
-    text-align: center;
 }
 
 nav ul{
@@ -51,6 +51,15 @@ nav ul {
     /* background-color: red; */
     /* height:1000px; */
 }
+
+.img-profil {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #37474F;
+    border-width: 0.5em;
+    width: 40%;
+    margin-top: 33%;
+ }
 
 .bubble {
     position: absolute;
@@ -112,15 +121,6 @@ em {
     font-style: normal;
     font-weight: bold;
 }
-
-.img-profil {
-    border-radius: 50%;
-    border-style: solid;
-    border-color: #37474F;
-    border-width: 0.5em;
-    width: 40%;
-    margin-top: 33%;
- }
 
  .description {
      margin-top: 0;

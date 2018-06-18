@@ -15,6 +15,7 @@ nav {
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
     text-align: center;
+    font-size: 1em;
 }
 
 nav ul, footer ul {

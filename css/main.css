@@ -212,6 +212,9 @@ em {
          width: 20%;
          margin-top: 5%;
      }
+     nav ul {
+         margin-left: 1em;
+     }
      nav li {
          display: inline;
          margin-right: 2em;

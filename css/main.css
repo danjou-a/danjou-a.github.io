@@ -213,7 +213,7 @@ em {
      }
      nav li {
          display: inline;
-         margin-inline-end: 2em;
+         margin-right: 2em;
      }
      .secret {
          visibility: hidden;

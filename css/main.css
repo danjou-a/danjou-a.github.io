@@ -137,6 +137,7 @@ em {
      font-family: "Lucida Console", "Monaco", "monospace";
      position: absolute;
      padding-right: 5em;
+     display:none;
  }
 
  @media screen and (max-width: 865px) {
@@ -197,6 +198,7 @@ em {
         margin-bottom: 1em;
     }
     .secret {
+        display:none;
         visibility: hidden;
     }
     p {
@@ -220,6 +222,7 @@ em {
          margin-right: 2em;
      }
      .secret {
+         display:none;
          visibility: hidden;
      }
  }

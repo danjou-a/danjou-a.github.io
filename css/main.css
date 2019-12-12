@@ -1,5 +1,5 @@
 body {
-    background-color: #90A4AE;
+    background-color: #9eb3bd;
     font-family:'Helvetica', 'Arial', 'sans-serif';
     margin: 0;
     padding: 0;
@@ -71,7 +71,8 @@ nav ul {
     border-top-left-radius: 2em;
     border-bottom-left-radius: 2em;
     padding: 2em 3em 2em 3em;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }
 
 a {
@@ -106,7 +107,8 @@ p {
     background-color: #FAFAFA;
     border-radius: 2em;
     padding: 2em 3em 2em 3em;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }
 
 ul.posts {
@@ -153,7 +155,8 @@ em {
     .blogBubble {
         border-radius: 1.5em;
         padding: 1.5em 2.25em 1.5em 2.25em;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
     }
  }
 
